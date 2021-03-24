@@ -17,7 +17,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Identifying Customers Likely to Subscribe for Term Deposit](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/logistic_regression_project_JoseA.ipynb)
 
-<img src="images/breast-cancer.jpeg?raw=true"/>
+<img src="images/banking-in-portugal-1920x1080.jpg?raw=true"/>
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
