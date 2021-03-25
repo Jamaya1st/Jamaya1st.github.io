@@ -37,7 +37,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/Kmeans_Project.ipynb)
+[Identifying total compensation depending on all benefits](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/Kmeans_Project.ipynb)
 
 <img src="images/K-means.png?raw=true"/>
 
@@ -47,30 +47,32 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/PCA_Project.ipynb)
+[Identifying most important atributes to better predict housing market](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/PCA_Project.ipynb)
 
-<img src="images/K-means.png?raw=true"/>
+<img src="images/pca%20housing.png?raw=true"/>
 
-- Used the K Nearest Neighbours algorithm to total compensation of employees on various atributes
-- Compared predictive performance by fitting a Naive Bayes model to the data
+- Used principle component analysis to reduce non important atributes to better estimate house market value
+- Scale data for best PCA consants without loss of information
+- Found number of components with at least a 90% variance
+
+***
+
+[Identifying possible click fraud by legitimizing user atributes](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/Talk_Data_Boosting_Bagging.ipynb)
+
+<img src="images/fraud-data.png?raw=true"/>
+
+- Used the Random Forest, Bagging classifier, and XGBoost classifier 
+- Used these three models to distinguige click fraud base on accuracy
 - Selected best model based on train and test performance
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/Talk_Data_Boosting_Bagging.ipynb)
+[Deep learning model to identify images between a dog or a cat](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/CNN_Project.ipynb)
 
-<img src="images/K-means.png?raw=true"/>
+<img src="images/cat_dogs.jfif?raw=true"/>
 
-- Used the K Nearest Neighbours algorithm to total compensation of employees on various atributes
-- Compared predictive performance by fitting a Naive Bayes model to the data
-- Selected best model based on train and test performance
-
-***
-
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/CNN_Project.ipynb)
-
-<img src="images/K-means.png?raw=true"/>
-
-- Used the K Nearest Neighbours algorithm to total compensation of employees on various atributes
-- Compared predictive performance by fitting a Naive Bayes model to the data
-- Selected best model based on train and test performance
+- Used convolution neuro network model to train a series of pictures of dogs and cats
+- there are two convolution layers with relu activatioon with two pooling layers of 2x2 kernels with 2 step stride
+- following the flattening stage, the full conection stage uses relu activation with a sigmoid output to hold within 0 to 1 boundaries
+- Selected best parameters based on train and test performance using 30 epochs
+- the model identifies dogs and cats with 92% accuracy
