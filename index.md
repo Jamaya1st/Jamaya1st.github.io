@@ -30,6 +30,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
+- Used the K Nearest Neighbours algorithm to classify a potential client bank deposit base on their background
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
