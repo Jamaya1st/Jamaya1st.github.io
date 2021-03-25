@@ -19,7 +19,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/banking-in-portugal-1920x1080.jpg?raw=true"/>
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
+- Used logistic regression to identify potential bankers based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
 - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
 - Explored a machine learning approach to medical diagnosis
@@ -30,6 +30,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
-- Used the K Nearest Neighbours algorithm to classify a potential client bank deposit base on their background
+- Used the K Nearest Neighbours algorithm to total compensation of employees on various atributes
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
