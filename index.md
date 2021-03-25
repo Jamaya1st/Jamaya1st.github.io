@@ -26,7 +26,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/Kmeans_Project_2.0.ipynb)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/Kmeans_Project.ipynb)
 
 <img src="images/K-means.png?raw=true"/>
 
