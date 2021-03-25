@@ -26,7 +26,48 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/KNN_and_NaiveBayes_Project.ipynb)
+
+<img src="images/knee-brace-ortho.png?raw=true"/>
+
+- Used the K Nearest Neighbours algorithm to total compensation of employees on various atributes
+- Compared predictive performance by fitting a Naive Bayes model to the data
+- Selected best model based on train and test performance
+
+
+***
+
 [Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/Kmeans_Project.ipynb)
+
+<img src="images/K-means.png?raw=true"/>
+
+- Used the K Nearest Neighbours algorithm to total compensation of employees on various atributes
+- Compared predictive performance by fitting a Naive Bayes model to the data
+- Selected best model based on train and test performance
+
+***
+
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/PCA_Project.ipynb)
+
+<img src="images/K-means.png?raw=true"/>
+
+- Used the K Nearest Neighbours algorithm to total compensation of employees on various atributes
+- Compared predictive performance by fitting a Naive Bayes model to the data
+- Selected best model based on train and test performance
+
+***
+
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/Talk_Data_Boosting_Bagging.ipynb)
+
+<img src="images/K-means.png?raw=true"/>
+
+- Used the K Nearest Neighbours algorithm to total compensation of employees on various atributes
+- Compared predictive performance by fitting a Naive Bayes model to the data
+- Selected best model based on train and test performance
+
+***
+
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/CNN_Project.ipynb)
 
 <img src="images/K-means.png?raw=true"/>
 
