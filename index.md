@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/emani27/Emani_DataScience/blob/master/Linear_Regression%20Project.ipynb)
+[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/Jamaya1st/Jamaya1st.github.io/blob/master/Projects/Linear_Regression%20Project.ipynb)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -30,7 +30,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
-- Used the K Nearest Neighbours algorithm to total compensation of employees on various atributes
+- Used the K Nearest Neighbours algorithm to find human abnormalities on various atributes
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
 
